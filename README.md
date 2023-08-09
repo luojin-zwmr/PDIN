@@ -12,5 +12,7 @@ The required datasets and pretraining model can be downloaded using the links be
  [pretraining_model]()  
  [dataset]()  
 To test this code, you can use the following code:  
+```
  python test.py --save_path (save_dir) --log_path (log_path)
+```
 

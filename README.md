@@ -6,11 +6,11 @@ pytorch
 tensorboardX  
 h5py  
 scikit-image == 0.15.0  
-# Testing  
-We provide part of the real scene image data set for the result test. If you want to test the results of Rain100L and Rain100H, please download the respective datasets in advance.  
+We provide part of the real scene image dataset for the result test. If you want to test the results of Rain100L and Rain100H, please download the respective datasets in advance.  
 The required datasets and pretraining model can be downloaded using the links below:  
  [pretraining_model]()  
  [dataset]()  
+# Testing  
 To test this code, you can use the following code:  
 ```
  python test.py --data_path (data_path) --save_path (save_path) --log_path (log_path)

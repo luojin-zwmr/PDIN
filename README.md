@@ -1,5 +1,5 @@
 # PDIN  
-This is the code used in the paper "PDIN: A Progressive image rain removal network based on camera imaging principle". The paper is under submission.  
+This is the code used in the paper ___"PDIN: A Progressive image rain removal network based on camera imaging principle"___. The paper is under submission.  
 If you want to use this code, you need to download the following library files:  
 opencv-python  
 pytorch  

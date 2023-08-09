@@ -20,7 +20,7 @@ For example, if you want to test the results of the real data set we provide, yo
 ```
  python test.py --data_path datasets/real --save_path results/real --log_path logs/Rain100H/net_latest.pth
 ```
-# Trainging  
+# Training  
 If you want to train your own dataset, put the dataset in the datasets folder. Note: You need to change the file name in the Dataset.py file.  
 To train this code, you can use the following code:  
 ```
